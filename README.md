@@ -46,8 +46,6 @@ This is a multi-threaded HTTP proxy server written in C. It receives client HTTP
 - Thread pool setup, enqueueing, and worker thread execution.
 
 ---
-
-```markdown
 ## 🧪 Compilation
 
 ```bash
