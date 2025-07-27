@@ -52,5 +52,3 @@ This is a multi-threaded HTTP proxy server written in C. It receives client HTTP
 
 ```bash
 gcc -Wall -o proxyServer proxyServer.c threadpool.c -lpthread
-./proxyServer <port> <threadpool size> <max requests> <filter file path>
-
